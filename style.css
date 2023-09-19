@@ -1,0 +1,34 @@
+body {
+    
+}
+
+.hero {
+    background-color: #1F2937;
+}
+
+.right-links {
+    display: flex;
+    list-style: none;
+    justify-content: flex-end;
+    flex: auto;
+}
+
+a {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+    padding: 18px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex: auto;
+    
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+}
