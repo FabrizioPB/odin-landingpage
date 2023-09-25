@@ -96,3 +96,14 @@ button {
     min-width: 250px;
     
 }
+
+.information {
+    display: flex;
+}
+
+.information strong{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
